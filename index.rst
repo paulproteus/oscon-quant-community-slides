@@ -517,6 +517,17 @@ Probable limitation(s):
 
 * Only applies if you can hijack existing group
 
+Set goals, and then achieve them
+====
+
+.. rst-class:: build
+
+* PSF grant to OpenHatch: program began June 1
+
+* Six new intro/diversity events
+
+* Eight groups see improved speaker diversity
+
 FIME Put this earlier
 ====
 
@@ -525,27 +536,6 @@ Open Source Comes to Campus survey notes
 Gender as a text field has 100% response rate
 
 Undergrads really don't know git (:<
-
-=====
-Project-driven contributor metric tracking
-====
-
-Meego community health
-====
-
-.. rst-class:: build
-
-* 2011: Dave Neary and Dawn Foster
-
-* Goal: Illuminate community activity
-
-* Bugzilla, mailing list submissions, wiki edits
-
-* http://wiki.meego.com/Metrics/Dashboard
-
-* A thrilling ball of Tomcat, Pentaho, and MySQL
-
-* Primary goal: Show managers what "community" is
 
 Wikipedia bot messages -- does niceness matter?
 ====
@@ -575,6 +565,27 @@ Wikipedia bot messages
 
 * Clarity, not niceness.
 
+=====
+Project-driven continuous metric tracking
+====
+
+Meego community health
+====
+
+.. rst-class:: build
+
+* 2011: Dave Neary and Dawn Foster
+
+* Goal: Illuminate community activity
+
+* Bugzilla, mailing list submissions, wiki edits
+
+* http://wiki.meego.com/Metrics/Dashboard
+
+* A thrilling ball of Tomcat, Pentaho, and MySQL
+
+* Primary goal: Show managers what "community" is
+
 MediaWiki community health
 ====
 
@@ -596,5 +607,50 @@ MediaWiki community health
 
   * FIXME: Find those
 
+
+Ubuntu Developer Advisory Team
+====
+
+.. rst-class:: build
+
+* This team in terms of UbuntuDevelopment, tries to fulfill the following tasks in the Ubuntu world:
+
+* Reach out to new contributors, thank them for their work and get feedback.
+
+* Reach out to people who might be ready to apply for upload rights and help them.
+
+* Reach out to contributors that went inactive and get feedback from them and offer help.
+
+Source: their homepage, last edited 2012-04-02.
+
+Ubuntu DAT: New Contributor Report
+====
+
+.. rst-class:: build
+
+* DAT asked open-ended questions; 63% response rate
+
+* 9 love Launchpad; 9 dislike it
+
+* Reviews are "surprisingly painless"
+
+* Docs are troublesome: "overwhelmed at all the information" and by "contradictory information" that is "difficult to follow in a logical manner"
+
+* Contributing is a "surprisingly painless process"
+
+* Real magic is in the Trello cards...
+
+Ubuntu DAT: Continous tracking
+====
+
+.. rst-class:: build
+
+* Data from Ultimate Debian Database
+
+* General approach: Make people happy, rather than tell them what to do
+
+* ...but does it work?
+
+* To answer that question: OpenHatch Greenhouse
 
 
