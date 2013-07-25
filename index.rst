@@ -492,19 +492,19 @@ The study no one has done yet
 2010: Diversity in programming groups
 =====
 
-RailsBridge
+RailsBridge1
 ====
 
 .. figure:: /_static/rpQQgPK.png
    :class: fill
 
-RailsBridge
+RailsBridge2
 ====
 
 .. figure:: /_static/TqU6yKC.jpg
    :class: fill
 
-RailsBridge
+RailsBridge3
 ====
 
 .. figure:: /_static/oV6FE8r.png
