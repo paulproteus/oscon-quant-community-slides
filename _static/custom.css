@@ -103,11 +103,6 @@ article#danger h2 {
     display: none;
 }
 
-/* HAX */
-.level-2 h2{
-    display: none;
-}
-
 /* No more transitions. */
 
 .slides > article.far-past {
