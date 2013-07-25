@@ -24,62 +24,6 @@ About me
 Topic: Who we are, as a community
 =====
 
-FLOSS survey, 2001
-==============
-
-Rishab Aiyer Ghosh
-
-Rüdiger Glott
-
-Bernhard Krieger
-
-Gregorio Robles
-
-International Institute of Infonomics, Maastricht
-
-Image
-=====
-
-.. figure:: /_static/Rl6VbNk.png
-   :class: fill
-
-Gender stats
-============
-
-* 1.1% women in FLOSS survey
-
-* 1.6% in separate FLOSS-US survey
-
-Survey methodology
-==================
-
-"Rather than selecting out a small, well-controlled sample...
-
-we allowed respondents to decide for themselves whether they should be considered “developers”..."
-
-"Our goal has been to analyze the entire... community."
-
-Reaction
-=======
-
-.. figure:: /_static/picard-facepalm-o.gif
-   :class: fill
-
-=====
-Topic: What are our projects like, on the whole?
-=====
-
-"Who Writes Linux?" report
-==========================
-
-* Yearly from the Linux Foundation (these numbers re: 2.6.30)
-
-* Changes per hour: 6
-
-* # of lines: 11 million
-
-* # of companies: 240
-
 All SourceForge Projects (n=145,850)
 ====================================
 
@@ -122,6 +66,47 @@ Github public projects (developers are “watchers”) (n=265,088)
 .. figure:: /_static/fJIZYxB.png
    :class: fill
 
+FLOSS survey, 2001
+==============
+
+Rishab Aiyer Ghosh
+
+Rüdiger Glott
+
+Bernhard Krieger
+
+Gregorio Robles
+
+International Institute of Infonomics, Maastricht
+
+Image
+=====
+
+.. figure:: /_static/Rl6VbNk.png
+   :class: fill
+
+Gender stats
+============
+
+* 1.1% women in FLOSS survey
+
+* 1.6% in separate FLOSS-US survey
+
+Survey methodology
+==================
+
+"Rather than selecting out a small, well-controlled sample...
+
+we allowed respondents to decide for themselves whether they should be considered “developers”..."
+
+"Our goal has been to analyze the entire... community."
+
+Reaction
+=======
+
+.. figure:: /_static/picard-facepalm-o.gif
+   :class: fill
+
 Questions about Ghosh results
 ====
 
@@ -133,6 +118,24 @@ Questions about Ghosh results
 * Are the men in FLOSS and the women generally using separate hosting services?
 
 * Are women under-represented because, as a group, they were less likely to fill out the survey?
+
+Tbirdimage
+=====
+
+
+.. figure:: /_static/thunderbird-screenshot.png
+   :class: fill
+
+"Who Writes Linux?" report
+==========================
+
+* Yearly from the Linux Foundation (these numbers re: 2.6.30)
+
+* Changes per hour: 6
+
+* # of lines: 11 million
+
+* # of companies: 240
 
 Reflections: What are we measuring, and why?
 ====
@@ -401,12 +404,16 @@ Questions and answers:
 
 * We may never know which editing levels responded better.
 
-Tbirdimage
-=====
+* Overall: Great!
 
+Open Source Comes to Campus survey notes
+====
 
-.. figure:: /_static/thunderbird-screenshot.png
-   :class: fill
+.. rst-class:: build
+
+* Gender as a text field has 100% response rate
+
+* (Some) undergrads really don't know git
 
 =====
 Topic: Behavioral studies
@@ -489,9 +496,6 @@ The study no one has done yet
 
 * To track: Compare Github activity against other similar population
 
-2010: Diversity in programming groups
-=====
-
 RailsBridge1
 ====
 
@@ -543,15 +547,6 @@ Set goals, and then achieve them
 * Six new intro/diversity events
 
 * Eight groups see improved speaker diversity
-
-FIME Put this earlier
-====
-
-Open Source Comes to Campus survey notes
-
-Gender as a text field has 100% response rate
-
-Undergrads really don't know git (:<
 
 Wikipedia bot messages -- does niceness matter?
 ====
@@ -682,6 +677,14 @@ Ubuntu DAT: Continous tracking
 * ...but does it work?
 
 * To answer that question: OpenHatch Greenhouse
+
+To manage your own projects
+=====
+
+* e.g. http://www.ohloh.net/p/openhatch
+
+* e.g. https://github.com/openhatch/oh-mainline
+
 
 GSoC meta mentorship (pipe dream)
 ====
