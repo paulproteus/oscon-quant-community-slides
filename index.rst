@@ -145,7 +145,9 @@ Reflections: What are we measuring, and why?
 
 * Being measured by people who don't have an interest in the results.
 
-* Opt-in surveys are hopelessly broken,<br>unless you know, very clearly, who has responded and who did not. -- Benjamin Mako Hill
+* Opt-in surveys are hopelessly broken, unless you know, very clearly, who has responded and who did not.
+
+  * -- Benjamin Mako Hill
 
 Reflections: Maybe...
 =====
@@ -161,7 +163,7 @@ Reflections: Maybe...
 Going forward, let's think about how to be useful.
 
 2008 Wikipedia survey
-===
+====
 
 .. rst-class:: build
 
@@ -207,11 +209,11 @@ Language
 * 25% English
 
 Wikipedia Editor Survey, 2011
-====
+=========
 
 .. rst-class:: build
 
-* The first ever ver semi-annual survey of Wikipedia editors
+* The first ever semi-annual survey of Wikipedia editors
 
 * "Conducted on Wikipedia and presented to logged-in users"
 
@@ -222,7 +224,7 @@ Wikipedia Editor Survey, 2011
 * Will we ever know?
 
 comScore vs. UNU-MERIT
-===
+========
 
 .. rst-class:: build
 
@@ -231,7 +233,7 @@ comScore vs. UNU-MERIT
 * comScore: 2.5% Russian
 
 Pew Survey, 2010
-====
+=======
 
 .. rst-class:: build
 
@@ -294,7 +296,7 @@ Adjust response data to match Pew demographics, using logistic "propensity score
 
 * Female editors in US: 17.8% -> 22.7%
 
-* Credit: Benj. Mako Hill and Aaron Shaw<br>(Search: [hill shaw gender wikipedia pew])
+* Credit: Benj. Mako Hill and Aaron Shaw (Search: [hill shaw gender wikipedia pew])
 
 * Conclusion: So close to 25% goal!
 
@@ -315,7 +317,7 @@ Shaw & Hill, 2012 (Shaw dissertation)
 
 * People who moved star to personal page: +3
 
-* People who did not move star: -3
+* People who did not move star: -5
 
 * Search: [shaw interactional account dissertation]
 
@@ -341,7 +343,7 @@ wikiHow demographics survey: methodology
 
 * 50% response rate; N=126
 
-* Send by the wikiHow community manager
+* Sent by the wikiHow community manager
 
 wikiHow demographics survey: results
 ====
@@ -384,8 +386,6 @@ Questions about wikiHow data
 =======
 
 Questions and answers:
-
-.. rst-class:: build
 
 * 50% of survey respondents under 15?
 
@@ -495,17 +495,20 @@ The study no one has done yet
 RailsBridge
 ====
 
-http://i.imgur.com/rpQQgPK.png
+.. figure:: /_static/rpQQgPK.png
+   :class: fill
 
 RailsBridge
 ====
 
-http://i.imgur.com/TqU6yKC.jpg
+.. figure:: /_static/TqU6yKC.jpg
+   :class: fill
 
 RailsBridge
 ====
 
-http://i.imgur.com/oV6FE8r.png
+.. figure:: /_static/oV6FE8r.png
+   :class: fill
 
 It worked in Boston
 ====
@@ -616,10 +619,24 @@ MediaWiki community health
 
   * 2012 November preview: mailing list statistics <http://bitergia.com/public/previews/2012_11_mediawiki/mls.html
 
-  * Now, monthly reports + dashboard
+  * Now, monthly reports + dashboard <https://blog.wikimedia.org/2013/07/12/engineering-june-2013-report/> <http://korma.wmflabs.org/browser/>
 
-  * FIXME: Find those
+MediaWiki community health
+====
 
+* Engineering metrics in June
+
+  * 116 unique committers contributed patchsets of code to MediaWiki.
+
+  * The total number of unresolved commits remained stable around 960.
+
+  * About 30 shell requests were processed.
+
+  * Wikimedia Labs now hosts 166 projects and 1520 users; to date 2052 instances have been created.
+
+  * The tools project in Labs now hosts 222 tools and 193 members.
+
+* Exploring dashboard: <http://korma.wmflabs.org/browser/>
 
 Ubuntu Developer Advisory Team
 ====
@@ -702,6 +719,10 @@ Thanks to...
 * Benjamin Mako Hill, for graphs (and FLOSSmole for source data)
 
 * Ubuntu DAT for giving me access
+
+* Karen Rustad, for conversations and help with slide prep
+
+* David Lu, Greenhouse maintainer
 
 * Sarah Mei for slide piracy
 
