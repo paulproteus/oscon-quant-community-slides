@@ -92,7 +92,7 @@ All SourceForge Projects (n=145,850)
 .. figure:: /_static/TVPFa6q.png
    :class: fill
 
-SF.net Projects Downloaded &gt;=99 times (90th %ile)
+SF.net Projects Downloaded >=99 times (90th %ile)
 ==============
 
 .. figure:: /_static/1iqWE6y.png

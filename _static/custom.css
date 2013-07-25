@@ -61,6 +61,18 @@ img.fill {
 /*     bottom: auto; */
 /* } */
 
+/* Sometimes move h2 */
+
+#all-sourceforge-projects-n-145-850 > h2,
+#mature-and-production-sourceforge-projects-n-29-821 > h2,
+#sf-net-projects-downloaded-gt-99-times-90th-ile > h2,
+#scratch-projects-1-year-after-publication-n-249-428 > h2,
+#google-code-projects-n-195-834 > h2,
+#active-google-code-projects-n-74-398 > h2,
+#github-public-projects-developers-are-watchers-n-265-088 > h2 {
+    padding-left: 2.2em;
+}
+
 /* Interior Slide Styling */
 
 .slides > article > h3,
