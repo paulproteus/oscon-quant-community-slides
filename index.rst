@@ -354,3 +354,247 @@ How to increase data quality for opt-in surveys
 
 * Adjust contributor response rate using known demographics of readers
 
+Questions about wikiHow data
+=======
+
+Questions:
+
+.. rst-class:: build
+
+* 50% of survey respondents under 15?
+
+* Was gender mandatory to fill in?
+
+* Which editing levels were more/less likely to respond?
+
+Questions about wikiHow data
+=======
+
+Questions and answers:
+
+.. rst-class:: build
+
+* 50% of survey respondents under 15?
+
+* Was gender mandatory to fill in?
+
+* Which editing levels were more/less likely to respond?
+
+.. rst-class:: build
+
+* 19/123 people did not fill out age.
+
+* Gender was required.
+
+* We may never know which editing levels responded better.
+
+Why do Thunderbird contributors give back?
+=====
+
+http://appv3.sgizmo.com/reportsview/?key=28049-422469-6338054c9cfc0c0c6326276a97d3efa3
+
+Graph
+
+=====
+Topic: Behavioral studies
+=====
+
+Debian mentorship, 2010: "Four days"
+=====
+
+.. rst-class:: build
+
+* Can we review new contributors' packages within four days?
+
+* If so, they know what to expect.
+
+* Package review increased sharply at the start...
+
+* and then we failed to meet our commitment...
+
+* ...and flatlined to its old amount.
+
+* Follow through is hard.
+
+GNOME Women's Outreach Project
+=====
+
+Or: The First Great FLOSS Behavioral Study
+
+.. rst-class:: build
+
+* GSoC 2006: 181 applicants
+
+* Women's Summer Outreach Program, started by Hanna Wallach and Chris Ball
+
+* 100 (women) applicants
+
+* Structure: Same as GSoC: mentored coding internship. (Separate funding.)
+
+* Conclusion: Targeted outreach changes the behaviors we see!
+
+GNOME Women's Outreach Project
+=====
+
+Open questions:
+
+.. rst-class:: build
+
+* Do Women's Outreach Project particpants stick around in GNOME similarly to other summer interns?
+
+* (Maybe more. Maybe less.)
+
+The study no one has done yet
+======
+
+.. rst-class:: build
+
+* Select 200 random users on e.g. Github
+
+* Find out their demographic information
+
+* Watch their activity levels
+
+* (This is hypothetical for now. Your project?)
+
+2010: Open Source Comes to Campus
+====
+
+.. rst-class:: build
+
+* 30% of applicants were women
+
+* and 30% of most excited applicants!
+
+* so, 30% of attendees
+
+* No gender-specific outreach
+
+* Great two-day event
+
+* ...though, did we leave an impact?
+
+* To track: Compare Github activity against other similar population
+
+2010: Diversity in programming groups
+=====
+
+RailsBridge
+====
+
+http://i.imgur.com/rpQQgPK.png
+
+RailsBridge
+====
+
+http://i.imgur.com/TqU6yKC.jpg
+
+RailsBridge
+====
+
+http://i.imgur.com/oV6FE8r.png
+
+It worked in Boston
+====
+
+Clones popping up
+
+.. rst-class:: build
+
+* PyStar Philly
+
+* Chicago Python Workshop
+
+* Columbus Python Workshop
+
+* Beginners & Friends Python Programming Workshop in Auckland, NZ
+
+* Tying them all together as OpenHatch Affiliated Events
+
+Probable limitation(s):
+
+.. rst-class:: build
+
+* Only applies if you can hijack existing group
+
+FIME Put this earlier
+====
+
+Open Source Comes to Campus survey notes
+
+Gender as a text field has 100% response rate
+
+Undergrads really don't know git (:<
+
+=====
+Project-driven contributor metric tracking
+====
+
+Meego community health
+====
+
+.. rst-class:: build
+
+* 2011: Dave Neary and Dawn Foster
+
+* Goal: Illuminate community activity
+
+* Bugzilla, mailing list submissions, wiki edits
+
+* http://wiki.meego.com/Metrics/Dashboard
+
+* A thrilling ball of Tomcat, Pentaho, and MySQL
+
+* Primary goal: Show managers what "community" is
+
+Wikipedia bot messages -- does niceness matter?
+====
+
+.. rst-class:: build
+
+* Huggle!
+
+* N approx 10,000
+
+Wikipedia bot messages
+====
+
+.. rst-class:: build
+
+* "Changing the tone and language of the generic vandalism warning.."
+
+* increasing the personalization (active voice rather than passive, explicitly stating that the sender of the warning is also a volunteer editor, including an explicit invitation to contact them with questions)
+
+* decreasing the number of directives and links
+
+* and decreasing the length of the message
+
+* ...led to more users editing articles in the short term.
+
+* More: http://meta.wikimedia.org/wiki/Template_A/B_testing/Results
+
+* Clarity, not niceness.
+
+MediaWiki community health
+====
+
+.. rst-class:: build
+
+* What are the areas with more activity?
+
+* Are we expanding or shrinking?
+
+* Custom gerrit stats: http://gerrit-stats.wmflabs.org/
+
+* Bitergia's MetricsGrimoire project:
+
+  * 2012 November preview: bugzilla <http://bitergia.com/public/previews/2012_11_mediawiki/its.html>
+
+  * 2012 November preview: mailing list statistics <http://bitergia.com/public/previews/2012_11_mediawiki/mls.html
+
+  * Now, monthly reports + dashboard
+
+  * FIXME: Find those
+
+
+
