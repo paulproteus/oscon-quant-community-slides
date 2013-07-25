@@ -401,12 +401,12 @@ Questions and answers:
 
 * We may never know which editing levels responded better.
 
-Why do Thunderbird contributors give back?
+Tbirdimage
 =====
 
-http://appv3.sgizmo.com/reportsview/?key=28049-422469-6338054c9cfc0c0c6326276a97d3efa3
 
-Graph
+.. figure:: /_static/thunderbird-screenshot.png
+   :class: fill
 
 =====
 Topic: Behavioral studies
