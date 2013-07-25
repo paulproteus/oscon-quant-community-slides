@@ -6,4 +6,5 @@
 /.installed.cfg
 /_serekh
 *.pyc
-
+*#*
+env
