@@ -2,26 +2,25 @@
    :theme: single-level
 
 =======================
-Scrape the web
+Quantitative Community Management
 =======================
-
-speedily, reliably, and simply with scrapy
 
 Asheesh Laroia
 
-asheesh@asheesh.org
+Executive Director, OpenHatch
 
-My history with scraping
-================================
+asheesh@openhatch.org
 
-* 2004: Taught 3-week "Learn Python Through Scraping"
+About me
+========
 
-My history with scraping
-================================
+.. rst-class:: build
 
-* 2004: Taught 3-week "Learn Python Through Scraping"
-
-* 2009: "Volunteer opportunity finder" within OpenHatch
+* 2000: DeCSS
+* 2001: Seth David Schoen
+* 2006: Met him
+* 2007: Concluded the community is too small
+* 2009: Founded OpenHatch
 
 My history with scraping
 ================================
