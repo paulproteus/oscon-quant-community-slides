@@ -653,4 +653,57 @@ Ubuntu DAT: Continous tracking
 
 * To answer that question: OpenHatch Greenhouse
 
+GSoC meta mentorship (pipe dream)
+====
+
+.. rst-class:: build
+
+* What makes GSoC better?
+
+* What does a good GSoC mean?
+
+* More failed students!
+
+* Students still active 3-6 mo later.
+
+* Happy mentors.
+
+GSoC meta mentorship (pipe dream)
+====
+
+Theory:
+
+.. rst-class:: build
+
+* Mentors would benefit from being in touch with each other.
+
+* Mentors would benefit from being asked to report on status.
+
+* Test: create opt-in meta mentorship.
+
+* ENOSPC
+
+Thanks to...
+====
+
+* Benjamin Mako Hill, for graphs (and FLOSSmole for source data)
+
+* Ubuntu DAT for giving me access
+
+* Sarah Mei for slide piracy
+
+Next steps
+====
+
+Stay in touch:
+
+.. rst-class:: build
+
+* asheesh@openhatch.org
+
+* http://lists.openhatch.org/events
+
+* Sponsor us!
+
+* Q&A.
 
