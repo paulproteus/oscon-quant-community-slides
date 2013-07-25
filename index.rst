@@ -5,11 +5,9 @@
 Quantitative Community Management
 =======================
 
-Asheesh Laroia
+Asheesh Laroia <asheesh@openhatch.org>
 
 Executive Director, OpenHatch
-
-asheesh@openhatch.org
 
 About me
 ========
@@ -39,7 +37,11 @@ Gregorio Robles
 
 International Institute of Infonomics, Maastricht
 
-http://i.imgur.com/Rl6VbNk.png
+Image
+=====
+
+.. figure:: /_static/Rl6VbNk.png
+   :class: fill
 
 Gender stats
 ============
@@ -57,7 +59,11 @@ we allowed respondents to decide for themselves whether they should be considere
 
 "Our goal has been to analyze the entire... community."
 
-http://stream1.gifsoup.com/view3/1290449/picard-facepalm-o.gif
+Reaction
+=======
+
+.. figure:: /_static/picard-facepalm-o.gif
+   :class: fill
 
 =====
 Topic: What are our projects like, on the whole?
@@ -77,37 +83,44 @@ Topic: What are our projects like, on the whole?
 All SourceForge Projects (n=145,850)
 ====================================
 
-http://i.imgur.com/wlVqwLt.png
+.. figure:: /_static/wlVqwLt.png
+   :class: fill
 
 “Mature” and “Production” SourceForge Projects (n=29,821)
 ==============
 
-http://i.imgur.com/TVPFa6q.png
+.. figure:: /_static/TVPFa6q.png
+   :class: fill
 
 SF.net Projects Downloaded &gt;=99 times (90th %ile)
 ==============
 
-http://i.imgur.com/1iqWE6y.png
+.. figure:: /_static/1iqWE6y.png
+   :class: fill
 
 Scratch projects 1+ year after publication (n=249,428)
 ======
 
-http://i.imgur.com/LmkyNCP.png
+.. figure:: /_static/LmkyNCP.png
+   :class: fill
 
 Google Code Projects (n=195,834)
 =====
 
-http://i.imgur.com/ose4Wa6.png
+.. figure:: /_static/ose4Wa6.png
+   :class: fill
 
 Active Google Code Projects (n=74,398)
 =====
 
-http://i.imgur.com/cjgyEiH.png
+.. figure:: /_static/cjgyEiH.png
+   :class: fill
 
 Github public projects (developers are “watchers”) (n=265,088)
 =====
 
-http://i.imgur.com/fJIZYxB.png
+.. figure:: /_static/fJIZYxB.png
+   :class: fill
 
 Questions about Ghosh results
 ====

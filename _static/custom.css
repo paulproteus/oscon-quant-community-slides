@@ -27,14 +27,16 @@ code, .code, pre {
 .slides > article > h1 {
     color: #222;
     font-size:72px;
-    margin-top: 250px;
+/*     margin-top: 250px; */
     background: rgba(255, 255, 255, 0.65);
     line-height: 1.5em;
     padding-left: 30px;
 }
 
-.fill {
-    background-size:100%;
+img.fill {
+/*     background-size: 100%; */
+    min-height: 100%;
+    max-width: 100%;
 }
 
 
